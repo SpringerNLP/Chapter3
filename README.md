@@ -7,7 +7,7 @@ The docker images for this case study are located on dockerhub. Running the comm
 
 Run the Docker image:
 ```
-docker run -p 8888:8888 springernlp/chapter_3:latest
+docker run -p 8888:8888 --rm springernlp/chapter_3:latest
 ```
 
 ## Building the Docker image
