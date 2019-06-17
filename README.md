@@ -12,5 +12,5 @@ docker run -p 8888:8888 --rm springernlp/chapter_3:latest
 
 ## Building the Docker image
 ```
-docker build -t springernlp/chapter_3:latest .
+docker build -t chapter_3:latest .
 ```
